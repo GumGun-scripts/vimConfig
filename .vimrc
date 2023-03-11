@@ -57,7 +57,7 @@ set statusline=%F%m%r%h%W%=(%{&ff}/%Y)\ (line\ %l\/%L,\ col\ %c)
 syntax enable  " Syntax highlighting
 set linebreak
 set nu rnu 
-set scrolloff=1
+set scrolloff=3
 set sidescroll=5
 
 
